@@ -1,0 +1,12 @@
+.container {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  height: 100vh;
+  max-height: 700px;
+  max-width: 415px;
+  width: 100vw;
+  overflow-x: hidden;
+  background-color: #fff;
+  margin: auto;
+}
